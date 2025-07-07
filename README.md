@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Vasanthi Yarroju</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | Graphic Designer</h3>
+<h3 align="center">Front3end  Developer | UI/UX Designer | Graphic Designer</h3>
 
 <p align="center">
-  <a href="mailto:vasanthiyaroju@gmail.com">
+  <a href="mailto:vasanthiyarroju@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yarroju-vasanthi-013525269">
