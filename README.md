@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vasanthi Yarroju</h1>
-<h3 align="center">Front3end  Developer | UI/UX Designer | Graphic Designer</h3>
+<h3 align="center">Frontend  Developer | UI/UX Designer | Graphic Designer</h3>
 
 <p align="center">
   <a href="mailto:vasanthiyarroju@gmail.com">
